@@ -1,0 +1,187 @@
+.{
+padding: 0;
+margin: 0;
+
+
+}
+body{
+font-family: 'Open Sans', sans-serif;
+font-size:14;
+line-height:25px;
+
+
+}
+h1,h2,h3,h4,h5,h6{
+ font-family: 'Lato', sans-serif;  
+}
+a, a:hover{
+text-decoration: none;
+
+}
+.container{
+
+width: 1600px;
+margin: 0px auto;
+
+}
+.row{
+width:100%;
+float: left;
+}
+.col-md-12{
+width: 100%;
+ float:left;
+ float: left;
+
+}
+.col-md-4"{
+width: 33.33%;
+
+
+
+
+}
+.header-section{
+width: 100%;
+float: left;
+background: #f6f9f9;
+
+
+}
+.logo{
+width: 100%;
+float: left;
+padding: 15px 0px;
+
+
+}
+.banner-section{
+width: 100%;
+float: left;
+background: url("../images/banner.png") center top no-repeat;
+background-size: cover;
+padding:60px 0px 40px ;
+
+}
+.banner-inner{
+width: 100%;
+float: left;
+padding: 80px 0px 20px;
+text-align: center;
+}
+.banner-inner h1{
+font-size: 80px;
+font-weight: 900px;
+line-height: 90px;
+margin: 2px;
+color: #fff;
+text-transform: uppercase;
+
+
+
+}
+.banner-inner .divider{
+	width: 40%;
+	height: 2px;
+	margin:25px auto;
+	background: #15a4fa;
+
+}
+
+.banner-inner p{
+font-size: 20px;
+font-weight: 400px;
+line-height: 26px;
+margin-bottom:30px;
+width: 100%;
+
+color: #fff;
+
+
+
+}
+.banner-inner .btn-info{
+padding: 15px 35px;
+background: transparent;
+border: 1px solid #15a4fa;
+color: #fff;
+font-size: 16px;
+display: inline-block;
+margin: 25px 0px;
+border-radius: 4px;
+transition: 1s;
+}
+.banner-inner .btn-info:hover{
+background:#15a4fa ;
+border: 1px solid #15a4fa;
+color: #fff;
+}
+.icon{
+	width: 100%;
+	float: left;
+	margin-top: 40px;
+	padding: 60px 20px;
+}
+.simple-section{
+	width: 100%;
+	float: left;
+	padding: 80px 0px;
+	background: #f6f9f9;
+}
+.simple-inner{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.simple-inner h1{
+font-size: 50px;
+font-weight: 900px;
+line-height: 50px;
+margin-bottom:15px;
+color: #000;
+
+
+}
+
+.simple-inner p{
+font-size: 15px;
+font-weight: 400px;
+line-height: 26px;
+color: #999999;
+
+
+}
+.feature-section{
+width: 100%;
+float: left;
+padding: 80px 0px;
+
+
+}
+.inner-feature{
+	width: 33.33%;
+	float: left;
+	text-align: center;
+	
+
+
+
+}
+.inner-feature img{
+margin-bottom: 20px;
+
+}
+.inner-feature h4{
+	font-size: 22px;
+	line-height: 32px;
+	margin-bottom: 0px 0px 10px;
+	color: #000;
+
+}
+.inner-feature p{
+font-size: 15px;
+font-weight: 400px;
+line-height: 26px;
+color: #999999;
+
+}
